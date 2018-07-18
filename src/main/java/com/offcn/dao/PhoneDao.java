@@ -9,4 +9,6 @@ public interface PhoneDao {
 	void test2();
 	
 	void test1();
+	
+	void test3();
 }
