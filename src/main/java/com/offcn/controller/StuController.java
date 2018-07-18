@@ -18,6 +18,7 @@ public class StuController {
 StuService stuService;
 	/**
 	 * 返回全部的学生信息:支撑柱状图、折线图
+	 * &&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
 	 */
     @RequestMapping("/getallstu")
     @ResponseBody
