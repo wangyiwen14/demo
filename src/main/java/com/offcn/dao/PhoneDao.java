@@ -12,5 +12,9 @@ public interface PhoneDao {
 	
 	void test3();
 	
+
 	void eclipse();
+
+	void  myeclipse();
+
 }
