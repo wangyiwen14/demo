@@ -6,5 +6,6 @@ public interface PhoneDao {
 
 	Phone search(String number);
 	
+	void test2();
 	void test1();
 }
