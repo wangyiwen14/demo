@@ -11,4 +11,6 @@ public interface PhoneDao {
 	void test1();
 	
 	void test3();
+	
+	void eclipse();
 }
