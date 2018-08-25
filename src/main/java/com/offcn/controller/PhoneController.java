@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import com.offcn.po.Phone;
 import com.offcn.service.PhoneService;
 /***
- * 测试Java程序wyw
+ * 测试Java程序wyw密钥是测试
  * @author Administrator
  *
  */
